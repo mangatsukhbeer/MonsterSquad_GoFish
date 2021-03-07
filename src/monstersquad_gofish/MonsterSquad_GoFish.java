@@ -8,6 +8,7 @@ package monstersquad_gofish;
 /**
  *
  * @author sukhm
+ * 
  */
 public class MonsterSquad_GoFish {
 
